@@ -1,0 +1,13 @@
+README.md
+pyproject.toml
+src/rfm_customer_segmentation/__init__.py
+src/rfm_customer_segmentation/data_preprocessing.py
+src/rfm_customer_segmentation/feature_engineering.py
+src/rfm_customer_segmentation/rfm_scoring.py
+src/rfm_customer_segmentation/segmentation.py
+src/rfm_customer_segmentation/utils.py
+src/rfm_customer_segmentation/visualization.py
+src/rfm_customer_segmentation.egg-info/PKG-INFO
+src/rfm_customer_segmentation.egg-info/SOURCES.txt
+src/rfm_customer_segmentation.egg-info/dependency_links.txt
+src/rfm_customer_segmentation.egg-info/top_level.txt
