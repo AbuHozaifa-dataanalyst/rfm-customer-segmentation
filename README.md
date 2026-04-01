@@ -217,7 +217,7 @@ This project demonstrates how customer transaction data can be transformed into 
 
 ## 👤 Author
 
-**Your Name**
+Abu Hozaifa
 Retail / Data Analyst
 
 ---
